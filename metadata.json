@@ -1,0 +1,6 @@
+{
+  "name": "MobiSpend - Mobile & Cellular Expense Tracker",
+  "description": "Track phone bills, mobile data top-ups, roaming passes, device financing, and carrier expenses with smart analytics and budget alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
